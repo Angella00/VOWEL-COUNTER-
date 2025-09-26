@@ -5,4 +5,4 @@ Built as a small exercise, deployable on **Vercel** or GitHub Pages.
 ---
 
 ##  Live Demo
-(After deployment, paste your Vercel link here)
+(https://vowel-counter-vq66.vercel.app/)
